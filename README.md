@@ -1,5 +1,6 @@
 # Realtime Handwritten Digits Recognition using Convolutional Neural Network
 
+![Uploading Realtime Digit Recognition - Google Chrome 2023-08-23 18-26-52.gif…]()
 
 
 This repository contains the code and resources for a real-time handwritten digits recognition system using a Convolutional Neural Network (CNN). The system is built to recognize handwritten digits in real-time and display the predicted digit on the user interface.
