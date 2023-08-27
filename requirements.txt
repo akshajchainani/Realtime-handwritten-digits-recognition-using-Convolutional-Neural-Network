@@ -1,0 +1,4 @@
+tensorflow==2.6.0
+tensorflowjs==3.8.0
+numpy==1.21.2
+flask==2.1.1
